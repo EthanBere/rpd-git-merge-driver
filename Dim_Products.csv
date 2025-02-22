@@ -1,0 +1,9 @@
+﻿product_key,product_name,product_type,product_version,created_at,updated_at
+0b242abe-7025-4994-bb74-cde302c7f329,Transact24-BNDL,CreditCard,3,2025-02-20 09:59:51.583,2025-02-20 09:59:51.583
+1d43f178-5cd1-4cc5-99b4-d20a2488634c,Transactional Account,PersonalCurrentAccount,4,2025-02-20 09:59:51.583,2025-02-20 09:59:51.583
+66d0c4cb-2e01-4903-aefe-db67c2df6c17,OFA-Thato,PersonalCurrentAccount,2,2025-02-20 09:59:51.583,2025-02-20 09:59:51.583
+6e788561-c017-45ac-8c44-aae6d4c5d205,PWC Testing Current Account02,PersonalCurrentAccount,9,2025-02-20 09:59:51.583,2025-02-20 09:59:51.583
+6e947ac4-9a49-4d9a-af7e-f741915b759b,Demand Savings24,Savings,14,2025-02-20 09:59:51.583,2025-02-20 09:59:51.583
+9f0ce6a8-3d82-4206-a527-d9ff2c010978,Transactional Account,PersonalCurrentAccount,2,2025-02-20 09:59:51.583,2025-02-20 09:59:51.583
+cb95fa3c-77b1-492c-989d-49ec5e5b92fb,OFA-Thato,CreditCard,6,2025-02-20 09:59:51.583,2025-02-20 09:59:51.583
+d831fa35-e017-4e78-a699-89e3daaf4dfb,Savings Account - Pull Fees,Savings,3,2025-02-20 09:59:51.583,2025-02-20 09:59:51.583
